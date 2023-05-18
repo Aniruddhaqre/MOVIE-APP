@@ -1,4 +1,4 @@
 # movieapp
 
-this is a movie app build in react
-Fetches data from OMDB api and displays the data about movies
+This is a movie app build in react
+fetches data from OMDB api and displays the data about movies
